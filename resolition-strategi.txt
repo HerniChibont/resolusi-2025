@@ -6,7 +6,5 @@ Plan 1 :
 -banyakin beramal
 -bekerja lebih keras
 
-plan 2:
-
-
+plan 2
 
